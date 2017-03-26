@@ -8,6 +8,18 @@ GameZone is a web application made using HTML,CSS,PHP and MYSQL. It was created 
   - Start the XAMPP server.
   - Type localhost/DBMS/starting.html
   - Enjoy!
+
+ # Credentials
+   - Employee Login
+      Username: mangal
+      Password: mangal
+
+   - Customer Login 
+      Username: venkat
+      Password: venkat
+
+
+ User Registration form to be added soon............
  
 # Note
   - This web application was solely created to learn html, css and php. Its a beginner level project. Please be nice. Thank you and have a nice day!
