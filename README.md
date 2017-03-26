@@ -4,7 +4,7 @@ GameZone is a web application made using HTML,CSS,PHP and MYSQL. It was created 
 
 
  # To Run
-  - Copy the repo contents i.e the DBMS folder to the ht-docs folder in the XAMPP installation files location.
+  - Copy the repo contents to a folder called DBMS folder and store it into the ht-docs folder in the XAMPP installation files location.
   - Start the XAMPP server.
   - Type localhost/DBMS/starting.html
   - Enjoy!
